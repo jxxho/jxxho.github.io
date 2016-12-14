@@ -1,13 +1,15 @@
 div {
-width: 500px;
 margin: 10px;
 padding: 15px;
-border: 1px solid #999999;
+}
+
+h1{
+color: papayawhip;
 }
 
 
 img {
-width: 100%;
+width: 500px;
 }
 
 div.first-section {
