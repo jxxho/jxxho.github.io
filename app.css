@@ -7,6 +7,10 @@ h1{
 color: black;
 }
 
+p:first-of-type {
+font-size: 1.25em;
+}
+
 
 img {
 width: 650px;
